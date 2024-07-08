@@ -13,7 +13,11 @@ The closed-loop kinematics of parallelogram linkage is described
 
 <p align="center">
 
-[![Watch more trajectory videos](https://github.com/austinvishal/Mechanism-Mockup-Parallelogram-linkage/blob/main/assets/thumbnail.png)](https://github.com/austinvishal/Mechanism-Mockup-Parallelogram-linkage/blob/main/assets/4barparallelogramabfixed.mp4)
+<div align="center">
+      <a href="https://youtu.be/UEjzrMyVt0E">
+         <img src="https://github.com/austinvishal/Mechanism-Mockup-Parallelogram-linkage/blob/main/assets/thumbnail2.png" alt="Watch the video"  style="width:100%;">
+      </a>
+</div>
 
 # Graphic Mockup
 
